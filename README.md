@@ -41,3 +41,7 @@ http://localhost:8000
 ## Propósito
 
 Este proyecto busca demostrar progreso real en desarrollo web, GitHub, documentación técnica y narrativa profesional orientada a transformación digital con IA.
+
+## Recursos formativos
+
+La web incluye una selección orientativa de cursos de Udemy relacionada con las competencias y fases del itinerario. Los enlaces se revisan periódicamente y pueden cambiar de disponibilidad, idioma o contenido; deben comprobarse antes de la inscripción.
